@@ -1,0 +1,3 @@
+Release\test.exe
+
+pause
